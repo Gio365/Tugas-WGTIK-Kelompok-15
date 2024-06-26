@@ -3,7 +3,7 @@
 Nama Kelompok 
 1.Deril Wijdan Falih
 2.Giovanni Nadika
-3.Shidqul Aziz Lababan
+3. Haikal Atmajati Firdaus
 Kelas IT-46-GAB02
 */
 
